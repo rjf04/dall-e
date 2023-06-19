@@ -1,4 +1,4 @@
-**#DALL-E Project to create AI generated images
+**###DALL-E Project to create AI generated images**
 
 This project allows users to generate images that are actually developed by AI.
 
@@ -6,7 +6,7 @@ Here, the user is asked to enter a prompt along with their names. This prompt is
 
 The images are stored in cloudinary and the link to the images is kept by creating a schema in MongoDB. Also, the Dall-E API is used to generate the images. Please note that Dall-E API is paid(at the time of making this README), hence, a local image is used in the code for the purpose of testing.'
 
-**Steps To Run:
+**Steps To Run:**
 
 1. Install the necessary npm packages.
 2. Create an account in MongoDB, Cloudinary as well as in OpenAI for the API calls.
