@@ -1,4 +1,4 @@
-###**DALL-E Project to create AI generated images**
+**DALL-E Project to create AI generated images**
 
 This project allows users to generate images that are actually developed by AI.
 
